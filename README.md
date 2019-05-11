@@ -2,11 +2,11 @@ myTrade
 ==========
 This repository is used as my Machine learning / Deep learning playground with applications on cryptocurrency and stock trading. This README file is structured as follows: 
 
-- [Getting Started](#Getting Started)
+- [Getting Started](#Getting-Started)
 - [Acknowledge](#Acknowledge)
 - [References](#references)
 
-## Getting Started
+## Getting-Started
 
 ### Install 
 
